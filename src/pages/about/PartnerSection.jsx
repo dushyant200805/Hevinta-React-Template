@@ -10,16 +10,16 @@ function PartnerSection (){
 }, []);
       const PartnerCard =[
         {
-            "partnerimage":"/public/partner-1.webp"
+            "partnerimage":"/partner-1.webp"
         },
         {
-            "partnerimage":"/public/partner-2.webp"
+            "partnerimage":"/partner-2.webp"
         },
          {
-            "partnerimage":"/public/partner-3.webp"
+            "partnerimage":"/partner-3.webp"
         },
          {
-            "partnerimage":"/public/partner-4.webp"
+            "partnerimage":"/partner-4.webp"
         }
       ]
     return(

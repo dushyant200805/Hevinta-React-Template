@@ -4,22 +4,22 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function Sectorcard(){
         const sectoreCard =[
         {
-           "sectoreicon":"/public/sectore-1.webp",   
+           "sectoreicon":"/sectore-1.webp",   
            "sectorename":"Economic Opportunity",
            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam." 
         },
          {
-           "sectoreicon":"/public/sectore-2.webp",   
+           "sectoreicon":"/sectore-2.webp",   
            "sectorename":"Health and Nutrition",
            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam." 
         },
         {
-           "sectoreicon":"/public/sectore-3.webp",   
+           "sectoreicon":"/sectore-3.webp",   
            "sectorename":"Education",
            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam." 
         },
         {
-           "sectoreicon":"/public/sectore-4.webp",   
+           "sectoreicon":"/sectore-4.webp",   
            "sectorename":"Water & Sanitation",
            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam." 
         }

@@ -63,14 +63,14 @@ function Header() {
         <div className="container">
           {/* <!-- Logo --> */}
           <Link to="/" className="navbar-brand py-2">
-            <img src="/public/logo-light.png" data-logo="light" className="object-fit-contain" height="80" alt="logo-light" />
+            <img src="/logo-light.png" data-logo="light" className="object-fit-contain" height="80" alt="logo-light" />
           </Link>
 
           {/* <!-- Offcanvas Menu --> */}
           <div className="offcanvas offcanvas-end" id="offcanvasNavbar2">
             <div className="offcanvas-header justify-content-between head-bg">
               <Link to="/" className="navbar-brand py-2">
-                <img src="/public/logo-light.png" data-logo="light" className="object-fit-contain" height="80" alt="logo-light" />
+                <img src="/logo-light.png" data-logo="light" className="object-fit-contain" height="80" alt="logo-light" />
               </Link>
 
               <button type="button" className="btn prime-btn lh-1 rounded-0 close p-2" data-bs-dismiss="offcanvas" aria-label="Close">

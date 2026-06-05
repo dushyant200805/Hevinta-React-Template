@@ -5,22 +5,22 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function Volunteercard(){
         const VolunteereCard =[
         {
-           "VolunteereThumnail":"/public/volunteer-1.webp",   
+           "VolunteereThumnail":"/volunteer-1.webp",   
            "Volunteerename":"Alishia Fulton",
             
         },
          {
-           "VolunteereThumnail":"/public/volunteer-2.webp",   
+           "VolunteereThumnail":"/volunteer-2.webp",   
            "Volunteerename":"Kevin Haley",
             
         },
         {
-           "VolunteereThumnail":"/public/volunteer-3.webp",   
+           "VolunteereThumnail":"/volunteer-3.webp",   
            "Volunteerename":"Bill Macaitis",
             
         },
         {
-           "VolunteereThumnail":"/public/volunteer-4.webp",   
+           "VolunteereThumnail":"/volunteer-4.webp",   
            "Volunteerename":"Ava Farrington",
             
         }

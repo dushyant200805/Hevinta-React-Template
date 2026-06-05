@@ -4,25 +4,25 @@ import { Link } from "react-router-dom";
 function TesimonialCard() {
            const testimonialcard =[
         {
-           "testthumnail":"/public/test1.webp",   
+           "testthumnail":"/test1.webp",   
            "testdesc":" Working with this team was a game-changer for our business. Their professionalism and creativity exceeded our expectations",
            "testname":"monica frazier",
            "testdesignation":"foundder of apple", 
         },
          {
-           "testthumnail":"/public/test2.webp",   
+           "testthumnail":"/test2.webp",   
             "testdesc":" Working with this team was a game-changer for our business. Their professionalism and creativity exceeded our expectations",
             "testname":"saabir al-obeid",
             "testdesignation":"foundder of googele", 
         },
         {
-           "testthumnail":"/public/test3.webp",   
+           "testthumnail":"/test3.webp",   
            "testdesc":" Working with this team was a game-changer for our business. Their professionalism and creativity exceeded our expectations",
            "testname":"rose hopkins",
            "testdesignation":"foundder of twitter", 
         },
         {
-           "testthumnail":"/public/test4.webp",   
+           "testthumnail":"/test4.webp",   
            "testdesc":" Working with this team was a game-changer for our business. Their professionalism and creativity exceeded our expectations",
            "testname":"jack stephen",
            "testdeignationc":"foundder of twitter", 

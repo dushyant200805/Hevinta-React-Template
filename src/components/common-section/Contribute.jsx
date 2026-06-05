@@ -58,7 +58,7 @@ function Contribute (){
                         </div>
 
                         <div className="col-lg-6 " data-aos="zoom-in">
-                            <img src="/public/help-content-image.webp" alt="child-image"
+                            <img src="/help-content-image.webp" alt="child-image"
                                 className="object-fit-contain w-100" height="400"/>
                         </div>
                     </div>

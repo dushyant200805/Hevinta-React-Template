@@ -22,7 +22,7 @@ function mission() {
                     <div className="row gx-2 align-items-center">
                         <div className="col-lg-6">
                             <div className="mission-1-img position-relative p-2">
-                                <img src="/public/mission-image.webp" alt="mission-image" className="object-fit-cover w-100" height="400" />
+                                <img src="/mission-image.webp" alt="mission-image" className="object-fit-cover w-100" height="400" />
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-12 p-2">

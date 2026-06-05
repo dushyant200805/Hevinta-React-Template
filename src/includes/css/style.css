@@ -72,7 +72,7 @@ header.fix .nav-link.active {
 .slide-1 {
   background:
     linear-gradient(170deg, rgb(10 10 10), rgba(106, 129, 75, 0.3)),
-    url("/public/slide-1.webp") no-repeat;
+    url("/slide-1.webp") no-repeat;
   background-size: cover;
   background-position: top center;
   min-height: 920px;
@@ -80,7 +80,7 @@ header.fix .nav-link.active {
 .slide-2 {
   background:
     linear-gradient(170deg, rgb(10 10 10), rgba(106, 129, 75, 0.3)),
-    url("/public/slide-2.webp") no-repeat;
+    url("/slide-2.webp") no-repeat;
   background-size: cover;
   background-position: top center;
   min-height: 920px;
@@ -88,7 +88,7 @@ header.fix .nav-link.active {
 .slide-3 {
   background:
     linear-gradient(170deg, rgb(10 10 10), rgba(106, 129, 75, 0.3)),
-    url("/public/slide-3.webp") no-repeat;
+    url("/slide-3.webp") no-repeat;
   background-size: cover;
   background-position: top center;
   min-height: 920px;
@@ -218,7 +218,7 @@ header.fix .nav-link.active {
   top: -50px;
   height: 65px;
   width: 100%;
-  background-image: url(/public/decor-wave.webp);
+  background-image: url(/decor-wave.webp);
   transform: rotate(-180deg);
 }
 .wave::after {
@@ -230,12 +230,12 @@ header.fix .nav-link.active {
   bottom: -50px;
   height: 65px;
   width: 100%;
-  background-image: url(/public/decor-wave.webp);
+  background-image: url(/decor-wave.webp);
 }
 
 [data-hevinta-theme="dark"] .wave::after,
 [data-hevinta-theme="dark"] .wave::before {
-  background-image: url(/public/decor-wave-dark.webp) !important;
+  background-image: url(/decor-wave-dark.webp) !important;
 }
 .about-content h3 {
   font-size: 20px;
@@ -243,7 +243,7 @@ header.fix .nav-link.active {
   letter-spacing: 2px;
   margin-bottom: 10px;
   display: inline-block;
-  background-image: url(/public/brush-short.webp);
+  background-image: url(/brush-short.webp);
   background-size: contain;
   background-position: 50%;
   padding: 10px 15px;
@@ -320,7 +320,7 @@ header.fix .nav-link.active {
   background:
  
     linear-gradient(170deg, rgb(10 10 10), rgba(106, 129, 75, 0.2)),
-    url("/public/donation-img.webp") no-repeat;
+    url("/donation-img.webp") no-repeat;
  
   background-position: center;
   position: fixed;
@@ -386,7 +386,7 @@ header.fix .nav-link.active {
 .about-banner-section {
   background:
     linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.788)),
-    url("/public/about-banner.webp") no-repeat;
+    url("/about-banner.webp") no-repeat;
   background-size: cover;
   background-position: center;
   min-height: 550px;
@@ -420,7 +420,7 @@ header.fix .nav-link.active {
 .company-detail-section {
   background:
     linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.788)),
-    url("/public/company-detail-banner.webp") no-repeat;
+    url("/company-detail-banner.webp") no-repeat;
   background-size: cover;
   background-position: center;
   min-height: 450px;

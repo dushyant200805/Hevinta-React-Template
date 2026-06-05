@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function CauseCard(){
         const causeCard =[
         {
-           "causethumnail":"/public/Causes-1.webp",   
+           "causethumnail":"/Causes-1.webp",   
            "causeTitle":"Economic Opportunity",
            "causeHeading":"Our programs foster enterprises",
            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam." ,
@@ -14,7 +14,7 @@ function CauseCard(){
            "causeGoal":"$3000",
         },
         {
-            "causethumnail":"/public/Causes-2.webp",   
+            "causethumnail":"/Causes-2.webp",   
             "causeTitle":"Education",
             "causeHeading":"Our education programs create safe",
             "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam." ,
@@ -24,7 +24,7 @@ function CauseCard(){
            "causeGoal":"$3000",
         },
         {
-          "causethumnail":"/public/Causes-3.webp",   
+          "causethumnail":"/Causes-3.webp",   
           "causeTitle":"Water & Sanitation",
           "causeHeading":"Restore access to clean drinking water", 
           "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam." ,

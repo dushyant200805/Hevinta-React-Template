@@ -22,7 +22,7 @@ function About() {
                     <div className="row g-3 align-items-center">
                         <div className="col-lg-6 mb-3">
                             <div className="abt-1-img">
-                                <img src="/public/about-img.webp" alt="about-img" />
+                                <img src="/about-img.webp" alt="about-img" />
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-12 p-3">
