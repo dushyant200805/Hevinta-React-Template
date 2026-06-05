@@ -1,7 +1,7 @@
 export const causeData = [
    {
       "id": "1",
-      "causethumnail": "causes-1.webp",
+      "causethumnail": "/Causes-1.webp",
       "causeTitle": "Economic Opportunity",
       "causeHeading": "Our programs foster enterprises",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam.",
@@ -12,7 +12,7 @@ export const causeData = [
    },
    {
       "id": "2",
-      "causethumnail": "causes-2.webp",
+      "causethumnail": "/Causes-2.webp",
       "causeTitle": "Education",
       "causeHeading": "Our education programs create safe",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam.",
@@ -23,7 +23,7 @@ export const causeData = [
    },
    {
       "id": 3,
-      "causethumnail": "/causes-3.webp",
+      "causethumnail": "/Causes-3.webp",
       "causeTitle": "Water & Sanitation",
       "causeHeading": "Restore access to clean drinking water",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam.",
@@ -34,7 +34,7 @@ export const causeData = [
    },
    {
       "id": "4",
-      "causethumnail": "/causes-4.webp",
+      "causethumnail": "/Causes-4.webp",
       "causeTitle": "Social Welfare",
       "causeHeading": "Helping children learn skills",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam.",
@@ -45,7 +45,7 @@ export const causeData = [
    },
    {
       "id": "5",
-      "causethumnail": "/causes-5.webp",
+      "causethumnail": "/Causes-5.webp",
       "causeTitle": "Health & Nutrition",
       "causeHeading": "Improving access to care",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam.",
@@ -56,7 +56,7 @@ export const causeData = [
    },
    {
       "id": "6",
-      "causethumnail": "/causes-6.webp",
+      "causethumnail": "/Causes-6.webp",
       "causeTitle": "Breaking chains, embracing change",
       "causeHeading": "Providing clean water aid",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam.",
