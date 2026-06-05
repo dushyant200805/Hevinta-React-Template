@@ -1,7 +1,7 @@
 import "../../includes/css/mainstyle.css";
 import "../../includes/css/style.css";
 import CauseCard from "../Ui/CauseCard";
-import { causeData } from "../../data/causesData";
+import { causeData } from "../../data/CausesData";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
