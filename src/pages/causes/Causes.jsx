@@ -1,5 +1,5 @@
 import CommonBannersection from "../../components/common-section/CommonBanner";
-import CausesPreview from "../../components/common-section/causesPreview";
+import CausesPreview from "../../components/common-section/CausesPreview";
 import Newsletter from "../../components/common-section/Newsletter";
 import Testimonial from "../../components/common-section/Testimonial"
 import Contribute from "../../components/common-section/Contribute";

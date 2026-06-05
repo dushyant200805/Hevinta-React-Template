@@ -1,6 +1,6 @@
 
 import CommonBannersection from "../../components/common-section/CommonBanner";
-import About from "../../components/common-section/aboutSection";
+import About from "../../components/common-section/AboutSection";
 
 import PartnerSection from "./PartnerSection";
 import CompanyDetail from "./CompanyDetail";

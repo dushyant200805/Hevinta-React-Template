@@ -1,7 +1,7 @@
 import SliderBanner from "./SliderBanner";
 import AboutSection from "../../components/common-section/AboutSection";
 import CoreSector from "./CoreSector";
-import CausesPreview from "../../components/common-section/causesPreview";
+import CausesPreview from "../../components/common-section/CausesPreview";
 import Mission from "./Mission";
 
 import Counter from "../../components/common-section/Counter";

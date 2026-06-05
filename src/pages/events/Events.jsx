@@ -2,7 +2,7 @@ import CommonBanner from "../../components/common-section/CommonBanner";
 import Newsletter from "../../components/common-section/Newsletter";
 import Testimonial from "../../components/common-section/Testimonial"
 import Contribute from "../../components/common-section/Contribute";
-import EventSection from "./eventsListSection";
+import EventSection from "./EventsListSection";
 
 function Eventpage() {
   const BannerData = {
