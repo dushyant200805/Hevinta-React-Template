@@ -1,7 +1,7 @@
 export const causeData = [
    {
       "id": "1",
-      "causethumnail": "/causes-1.webp",
+      "causethumnail": "causes-1.webp",
       "causeTitle": "Economic Opportunity",
       "causeHeading": "Our programs foster enterprises",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam.",
@@ -12,7 +12,7 @@ export const causeData = [
    },
    {
       "id": "2",
-      "causethumnail": "/causes-2.webp",
+      "causethumnail": "causes-2.webp",
       "causeTitle": "Education",
       "causeHeading": "Our education programs create safe",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, cumque nemo provident repellat sapiente ipsam.",
