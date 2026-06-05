@@ -1,0 +1,276 @@
+/* ==========================
+
+    Project Name : Hevinta
+    Author Name : Lucid Themeslab
+    Store Link : https://www.templatemonster.com/store/lucid_themeslab/
+    Version : 1.0.0
+
+===============================*/
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+:root{
+    --primefont:  "Merriweather Sans", sans-serif;
+    --secondfont:  "Merriweather", serif;
+    --tertiaryfont: "Shrikhand", serif;
+}
+[data-hevinta-theme="light"] {
+
+    --body-bg:  #f8f8f7;
+    --head-bg: #ffffff;
+    --banner-bg: 10, 10, 10;
+    --prime-bg: #ffc22f;
+    --alt-bg: #fffbf2;
+    --card-bg: #ffffff;
+    --card-alt-bg:#ffffff;
+    --dark-bg: #000000;
+    --input-bg: #fff4dc;
+    --icon-bg: #111111;
+    --footer-bg: #000000;
+    --footer-copy-bg: #111111;
+
+    --nav-text: #ffffff;
+    --white-text: #ffffff;
+    --prime-text: #ffc22f;
+    --secondery-text:#7fbbdd;
+    --head-text: #111111;
+    --para-text: #585858;
+    --icon-text: #ffffff;
+    --head-alt-text: #111111;
+    --para-alt-text: #585858;
+    --input-text: #111111;
+    --footer-text: #ffffff;
+    --footer-copy-text: #ffffff;
+
+    --prime-btn: #ffc22f;
+    --prime-btn2: #ffc22f;
+    --prime-btn-text: #171717;
+    --prime-btn-text2: #ffffff;
+    --prime-btn-border: #ffc22f;
+    --prime-btn-border2: #ffc22f;
+    --input-border:#ffffff;
+    --prime-border: #ffc22f; 
+    --light-border: #dedede;
+}
+
+ [data-hevinta-theme="dark"] {
+
+    --body-bg: #000000;
+    --head-bg: #151515;
+    --banner-bg: 10, 10, 10;
+   --prime-bg: #ffc22f;
+    --alt-bg: #1a1a1a;
+    --card-bg: #1a1a1a;
+    --card-alt-bg:#000000;
+    --dark-bg: #151515;
+    --input-bg: #585858;
+    --icon-bg: #111111;
+    --footer-bg:#000000;
+    --footer-copy-bg: #151515;
+
+    --nav-text: #f6f7f5;
+    --white-text: #ffffff;
+    --prime-text: #ffc22f;
+    --secondery-text:#41afee;
+    --head-text: #ffffff;
+    --para-text: #ffffff;
+    --icon-text: #ffffff;
+    --head-alt-text: #ffffff;
+    --para-alt-text: #ffffff;
+    --input-text: #ffffff;
+    --footer-text: #ffffff;
+    --footer-copy-text: #ffffff;
+
+    --prime-btn: #ffc22f;
+    --prime-btn2: #ffc22f;
+    --prime-btn-text: #000000;
+    --prime-btn-text2: #ffffff;
+    --prime-btn-border: #ffc22f;
+    --prime-btn-border2: #ffc22f;
+    --input-border:#585858;
+    --prime-border: #ffc22f; 
+ 
+    --light-border: #5a5a5a;
+ 
+    --light-border: #dedede;
+ 
+}
+
+
+.body-bg {
+    background-color: var(--body-bg) !important;
+}
+
+.head-bg {
+    background-color: var(--head-bg) !important;
+}
+.head-bg-trans{
+    background: transparent;
+}
+
+.banner-bg {
+    background-color: var(--banner-bg) !important;
+}
+
+.prime-bg {
+    background-color: var(--prime-bg) !important;
+}
+
+.alt-bg {
+    background-color: var(--alt-bg) !important;
+}
+.card-bg {
+    background-color: var(--card-bg) !important;
+}
+.dark-bg {
+    background-color: var(--dark-bg) !important;
+}
+.card-alt-bg {
+    background-color: var(--card-alt-bg) !important;
+}
+
+.input-bg {
+    background-color: var(--input-bg) !important;
+}
+
+.icon-bg {
+    background-color: var(--icon-bg) !important;
+}
+
+.footer-bg {
+    background-color: var(--footer-bg) !important;
+}
+
+.footer-copy-bg {
+    background-color: var(--footer-copy-bg) !important;
+}
+
+.nav-text {
+    color: var(--nav-text) !important;
+}
+.icon-text {
+    color: var(--icon-text) !important;
+}
+
+.white-text {
+    color: var(--white-text) !important;
+}
+
+.prime-text {
+    color: var(--prime-text) !important;
+}
+.secondery-text {
+    color: var(--secondery-text) !important;
+}
+
+.head-text {
+    color: var(--head-text) !important;
+}
+
+.para-text {
+    color: var(--para-text) !important;
+}
+
+.head-alt-text {
+    color: var(--head-alt-text) !important;
+}
+
+.para-alt-text {
+    color: var(--para-alt-text) !important;
+}
+
+.input-text {
+    color: var(--input-text) !important;
+}
+.input-border{
+    border: 1px solid var(--input-border) !important;
+}
+.footer-text {
+    color: var(--footer-text) !important;
+}
+
+.footer-copy-text {
+    color: var(--footer-copy-text) !important;
+}
+
+.prime-btn {
+    letter-spacing: 2px;
+    background-color: var(--prime-btn) !important;
+    color: var(--prime-btn-text) !important;
+    border: 1px solid var(--prime-border) !important;
+  
+}
+
+.prime-btn:hover {
+    background-color: var(--prime-btn2) !important;
+    color: var(--prime-btn-text2) !important;
+    border: 1px solid var(--prime-btn-border2) !important;
+}
+
+.prime-outline-btn {
+    background-color: transparent !important;
+    color: var(--prime-btn-text2) !important;
+    border: 1px solid var(--prime-border) !important;
+    text-transform: capitalize !important;
+}
+
+.prime-outline-btn:hover {
+    background-color: var(--prime-btn) !important;
+    color: var(--prime-btn-text) !important;
+    border: 1px solid var(--prime-btn-border) !important;
+}
+
+.prime-outline-btn2 {
+    background-color: transparent;
+    color: var(--prime-btn-text);
+    border: 1px solid var(--light-border);
+    text-transform: capitalize;
+}
+
+.prime-outline-btn2:hover {
+    background-color: var(--prime-btn);
+    color: var(--prime-btn-text);
+    border: 1px solid var(--prime-btn-border);
+}
+
+.prime-border {
+    border-color: var(--prime-border) !important;
+} 
+
+.light-border {
+    border-color: var(--light-border) !important;
+}
+.prime-font {
+    font-family: var(--primefont) !important;
+}
+.second-font {
+    font-family: var(--secondfont) !important;
+}
+.tertiary-font {
+    font-family: var(--tertiaryfont) !important;
+}
+.backgound-blur{
+       backdrop-filter: blur(10px);
+}
+.fs-7{
+    font-size: 14px;
+}
+.fs-8{
+    font-size: 12px;
+}
+.fs-9{
+    font-size: 60px;
+}
+.fs-10{
+    font-size: 55px;
+}
+.pb-6{
+    padding-bottom: 70px !important;
+}
+.ptb{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.mt-6{
+    margin-top: 80px !important;
+}
